@@ -7,3 +7,5 @@
   service.
 
 - Runner. Orchestrates the agent execution loop w/ sub-agent delegation.
+
+- Guardrails.
